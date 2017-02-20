@@ -19,4 +19,19 @@ public interface GameState {
      * @return Number of columns the game has
      */
     int getCols();
+    
+    /**
+     * @return The 2D array that represents the 
+     * infinite two-dimensional grid inhabited 
+     */
+    int [][] getMatrix();
+
+    /**
+     * @save changes to the two-dimensional grid 
+     * @param array
+     */
+    
+   public void setArray(int[][] array);
 }
+
+
