@@ -1,4 +1,4 @@
-
+### Henry Warne ###
 ### Assumptions ###
 
 1.The user will only enter stars (*) to represent live cells <br />
